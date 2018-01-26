@@ -1,0 +1,6 @@
+C:\Users\Santoshkumar\Desktop\DSOD\Assignment 5\Assignment 5\WcfService1\bin\WcfService1.dll.config
+C:\Users\Santoshkumar\Desktop\DSOD\Assignment 5\Assignment 5\WcfService1\bin\WcfService1.dll
+C:\Users\Santoshkumar\Desktop\DSOD\Assignment 5\Assignment 5\WcfService1\bin\WcfService1.pdb
+C:\Users\Santoshkumar\Desktop\DSOD\Assignment 5\Assignment 5\WcfService1\obj\Release\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Santoshkumar\Desktop\DSOD\Assignment 5\Assignment 5\WcfService1\obj\Release\WcfService1.dll
+C:\Users\Santoshkumar\Desktop\DSOD\Assignment 5\Assignment 5\WcfService1\obj\Release\WcfService1.pdb
